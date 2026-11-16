@@ -1,0 +1,6 @@
+{
+  "name": "启程 · Agent Academy",
+  "description": "从第一次上手到独立完成工作。一个以真实任务为核心的 AI Agent 互动学习空间。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
